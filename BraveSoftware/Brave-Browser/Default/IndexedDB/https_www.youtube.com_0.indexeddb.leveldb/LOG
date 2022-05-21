@@ -1,0 +1,12 @@
+2022/05/21-15:58:28.325 1260 Reusing MANIFEST /home/okke/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/05/21-15:58:28.325 1260 Recovering log #140
+2022/05/21-15:58:28.341 1260 Reusing old log /home/okke/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000140.log 
+2022/05/21-15:58:45.902 12cf Level-0 table #145: started
+2022/05/21-15:58:45.911 12cf Level-0 table #145: 1167673 bytes OK
+2022/05/21-15:58:45.914 12cf Delete type=0 #140
+2022/05/21-15:59:25.925 12cf Compacting 1@1 + 1@2 files
+2022/05/21-15:59:25.939 12cf Generated table #146@1: 358 keys, 43235 bytes
+2022/05/21-15:59:25.939 12cf Compacted 1@1 + 1@2 files => 43235 bytes
+2022/05/21-15:59:25.941 12cf compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/05/21-15:59:25.941 12cf Delete type=2 #145
+2022/05/21-15:59:25.941 12cf Delete type=2 #142

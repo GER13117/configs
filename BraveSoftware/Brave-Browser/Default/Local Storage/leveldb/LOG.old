@@ -1,0 +1,15 @@
+2022/05/21-17:27:24.712 3 Reusing MANIFEST /home/okke/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2022/05/21-17:27:24.712 3 Recovering log #110
+2022/05/21-17:27:24.713 3 Reusing old log /home/okke/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000110.log 
+2022/05/21-17:29:37.711 3 Level-0 table #114: started
+2022/05/21-17:29:37.716 3 Level-0 table #114: 17908 bytes OK
+2022/05/21-17:29:37.720 3 Delete type=0 #110
+2022/05/21-17:29:37.722 3 Compacting 4@0 + 1@1 files
+2022/05/21-17:29:37.742 3 Generated table #115@0: 780 keys, 1049780 bytes
+2022/05/21-17:29:37.742 3 Compacted 4@0 + 1@1 files => 1049780 bytes
+2022/05/21-17:29:37.744 3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/05/21-17:29:37.745 3 Delete type=2 #114
+2022/05/21-17:29:37.745 3 Delete type=2 #107
+2022/05/21-17:29:37.745 3 Delete type=2 #109
+2022/05/21-17:29:37.745 3 Delete type=2 #104
+2022/05/21-17:29:37.745 3 Delete type=2 #111

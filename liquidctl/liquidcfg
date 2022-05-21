@@ -1,0 +1,12 @@
+#!/bin/bash
+
+liquidctl initialize all
+
+
+liquidctl --match smart set fan2 speed 10
+liquidctl --match smart set fan3 speed 10
+
+
+
+liquidctl --match kraken set pump speed 50
+liquidctl --match kraken set fan speed  20 40  30 50  34 80  40 90  50 100
