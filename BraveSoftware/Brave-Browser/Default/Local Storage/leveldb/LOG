@@ -1,3 +1,6 @@
-2022/05/21-17:39:36.395 3 Reusing MANIFEST /home/okke/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
-2022/05/21-17:39:36.395 3 Recovering log #113
-2022/05/21-17:39:36.395 3 Reusing old log /home/okke/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000113.log 
+2022/05/21-17:44:36.711 3 Reusing MANIFEST /home/okke/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2022/05/21-17:44:36.712 3 Recovering log #113
+2022/05/21-17:44:36.712 3 Reusing old log /home/okke/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000113.log 
+2022/05/21-17:51:33.019 8 Level-0 table #118: started
+2022/05/21-17:51:33.024 8 Level-0 table #118: 19658 bytes OK
+2022/05/21-17:51:33.029 8 Delete type=0 #113
