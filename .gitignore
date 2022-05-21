@@ -3,6 +3,8 @@
 /JetBrains
 /autostart
 /cef_user_data
+/coc
+/dconf
 /evolution
 /gh
 /gtk-2.0
@@ -11,3 +13,10 @@
 /libfm
 /neofetch
 /nitrogen
+/pcmanfm
+/pulse
+.gsd-keyboard.settings-ported
+dleyna-renderer-service.conf
+mimeapps.list
+user-dirs.dirs
+user-dirs.locale
